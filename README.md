@@ -1,9 +1,9 @@
 ## Hi programmers !!!
 
->I'm very happy to be in GitHub
+> I'm very happy to be in GitHub !!!!
 
 
-#### *More  about me
+##### More  about me
 
 Analytical, focused and results-oriented. Successful teamwork, successful leadership of multidisciplinary work teams, I promote efficiency and discipline.
 Focused on .NET C # Programming (since 2001)
